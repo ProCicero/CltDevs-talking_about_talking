@@ -12,21 +12,39 @@ A good way to come up with what to say is to think about it as a story. Where is
 
 `I have a lot of experience talking to juries, judges, and lawyers. I saw that I was pretty good at doing it, so I tried to learn a lot about doing it. Along the way I studied a lot about the different parts that go into it, including classical rhetoric, speechwriting, and persuasion. While trying to understand what tied all of this information together, I realized that the story is a good way to do it, becuase it is how humans have naturally communciated with each other since the beginning of time. It provides a way to think about how to structure information, how to convey information, an how to make it memorable.`
 
+- Use the story to determine what to _include_ and what to _exclude_.
+- Try creating a simple children's story about your topic to come up with ideas.
+
 ## Where to Say It
 
 All stories have a beginning, a middle, and an ending. Take all of the information you have and see where it fits. Use the beginning to set up the situation and show what things are like now. Use the middle to say where you went and what you did. This is also going to be where most of your information is going to be shared. Use the ending to show where you want the audience to be.
+
+- Simon Lancaster's TEDx speech, [The Art of Spin](https://youtu.be/_TJFdAtTe6M) does a great job explaining the power of metaphors, which are largely the same way stories work.
 
 ## How to Say It
 
  It is nearly impossible to plan out ahead of time every single gesture you want to convey, and you should not do that. What you want to do is look at the natural flow of your story and keep that in mind. Most all of these techiques are just explanations of what comes naturally. At most, find a few devices that can be used to highlight the few main points you want to make.
 
+- There are hundreds of rhetorical devices. See [Silva Rhetoricae](http://rhetoric.byu.edu/) for a very comprehensive list.
+- Find a few that work best, do not overdo them.
+- You tell stories different ways depending on the audience you are telling them to. Do the same thing for speeches.
+
 ## Remembering What to Say
 
 Looking at your presetation as a story make remembering what to say a lot simpler. You want to remember _what_ to say, not how you want to say it. You want to _rehearse_ what you are going to stay, not memorize it. Use a memory palace, which will dovetail nicely with a story about a journey.
 
+- The human brain is very good at spacial actions, including memory.
+- Blocking movements ahead of time will aid in memory as well, allowing you to more easily recover from interruptions.
+- Having a vivid story with vivid imagery helps your audience recall what you said, and will also help you remember what you want to say.
+
 ## Actually Saying what you are going to Say
 
 Delivery is where you plan _how_ you are going to tell your story. This is the mechanics of speaking, which includes tempo, pace, volume, articulation. This also includes blocking, which not only gives a visual element to your speech, but also helps with memorization.
+
+- Roger Love's _Vocal Power_ is a good source for vocal techniques.
+- Rehersal will also help with voice strength.
+- Learn how to **project** your voice and not just talk louder. You can talk nonstop for hours with no loss of voice just by learning proper voice and breathing techniques.
+- With a little bit of practice, you will not need amplification for most types of presentations.
 
 ## Further reading
 
@@ -58,3 +76,13 @@ A modern-day discourse on classical rhetoric, it is more geared towards creating
 #### by Jay Heinrichs
 
 A more focused book on coming up with memorable ideas and lines to deliver them. This is very useful for coming up with memorable one-liners to quickly get someone's attention. He takes many memorable lines and breaks them down into parts to see what makes them memorable, then shows you how to use those ideas to create your own. If you are looking for the first line of your elevator pitch, this is a good place to start. It is written in the same style as his other book.
+
+## Further Reference
+
+[Simon Lancaster: Speak Like a Leader](https://youtu.be/bGBamfWasNQ) Great introduction to classical rhetoric. This TEDx speech was given soon after his second book, _The Language of Leadership_ was released. This is also a great example of delivery.
+
+[Simon Lancaster: The Art of Spin](https://youtu.be/_TJFdAtTe6M) TEDx speech focused on metaphors. It does a great job explaining how powerful they are and how just using them in your speech can completely shift the perspective.
+
+[Simon Lancaster: The Rhetoric of Business](https://youtu.be/7P1NZNjvidE) Another great video, it shows 
+
+[Simon Lancaster: How to Start a Speech](https://youtu.be/Bh3iM--2AW4) A great explanation about how important starting a speech is to keeping the audience engaged. He goes into the neurochemical explanation for it.
